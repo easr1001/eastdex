@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Vaults,Leaderboard,Portfolio",
-  "VITE_CUSTOM_MENUS": "Token, https://boop.fun",
+  "VITE_CUSTOM_MENUS": "Token, https://pro.ave.ai/token/pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn-solana",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "https://discord.com/invite/orderlynetwork",
